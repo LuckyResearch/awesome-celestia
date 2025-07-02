@@ -605,7 +605,7 @@ Public enpoints:
 ####  Social Media Contributions:
 
   ####  49 Telegram posts (LuckyResearch):
-     https://docs.google.com/document/d/1VRJIJ6NrOCzbxkNG-_RT8SgZPOUvJPmVu9jkYPfoXPI/edit?usp=sharing
+ https://docs.google.com/document/d/1VRJIJ6NrOCzbxkNG-_RT8SgZPOUvJPmVu9jkYPfoXPI/edit?usp=sharing
 
   ####  235 Telegram posts (Celestia Hub Vietnam):
  https://docs.google.com/document/d/1byrhdRynw3Pmfn9sSRy8r5GKMsty3gc8YSvda-GL2_I/edit?usp=sharing
