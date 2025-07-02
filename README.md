@@ -569,18 +569,18 @@ Public enpoints:
 
 * Addrbook: https://snapshot.luckyresearch.org/Celestia/Mocha/addrbook.json
 
-** Snapshot Hub:https://snapshot.luckyresearch.org/Celestia/
+#### Snapshot Hub:https://snapshot.luckyresearch.org/Celestia/
 
-* Relayer: https://relayers.smartstake.io/relayer/D5F5A78539B6C1CC
+#### Relayer: https://relayers.smartstake.io/relayer/D5F5A78539B6C1CC
 
-* GitHub Contribution: https://github.com/celestiaorg/celestia-app/issues/4961#issuecomment-2957298839
+#### GitHub Contribution: https://github.com/celestiaorg/celestia-app/issues/4961#issuecomment-2957298839
 
 #### Tooling Contributions
 
-* Celestia Performance Status Bot – Telegram bot for validator & bridge node monitoring:
+#### Celestia Performance Status Bot – Telegram bot for validator & bridge node monitoring:
    https://t.me/celestia_bridge_check_bot
 
-* Celestia Bridge Status Checker – Web tool to check the health of bridge nodes:
+#### Celestia Bridge Status Checker – Web tool to check the health of bridge nodes:
    https://celestia-bridge-checker.luckyresearch.org/
 
  # Community Contributions
@@ -596,7 +596,7 @@ Public enpoints:
 
      https://docs.google.com/document/d/1ddeS6FvQndIuDhe-5-9chZt848tVCCLA4EzqXjOJxyk/edit?usp=sharing
 
-  ####  25 posts in the Celestia Content Hub Vietnam:
+  ####   Celestia Content Hub Vietnam:
      https://content-hub.luckyresearch.org/celestiavietnam
 
   ####  11 articles published via Mirror:
